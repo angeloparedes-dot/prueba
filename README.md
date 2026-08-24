@@ -30,7 +30,7 @@ Nos interesa trabajar en los siguientes **Objetivos...**:
 | Foto Angelo | Angelo | Falta Distribuir | Falta Definir |
 | Foto Mariana | Mariana | Falta Distribuir | Falta Definir |
 | Foto Alonso | Alonso | Falta Distribuir | Falta Definir |
-| Foto  | eeeeee | Falta Distribuir | Falta Definir |
+| Foto Sofia  | Sofia | Falta Distribuir | Falta Definir |
 ---
 ## 📌 Resumen Final
 
