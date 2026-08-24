@@ -17,3 +17,5 @@ Nos interesa trabajar en los siguientes **Objetivos...**:
 * Objetivo 5
 
 ## 📸 Fotografía del Equipo
+
+![Imagen Grupal](Imagen%20Grupal%20provisional.jpeg)
