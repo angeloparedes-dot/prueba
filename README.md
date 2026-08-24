@@ -2,6 +2,7 @@
 
 ## Carrera de Ingeniería Biomédica
 #### Universidad Peruana Cayetano Heredia
+
 ---
 ## 🌎Descripción del Equipo
 
@@ -15,10 +16,12 @@ Nos interesa trabajar en los siguientes **Objetivos...**:
 * Objetivo 3
 * Objetivo 4
 * Objetivo 5
+
 ---
 ## 📸 Fotografía del Equipo
 
 ![Imagen Grupal](Recursos/Imagen%20Grupal%20Provisional.jpeg)
+
 ---
 ## 👥 Integrantes del Equipo
 
