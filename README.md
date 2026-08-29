@@ -11,11 +11,11 @@ Nuestro objetivo es...
 
 Nos interesa trabajar en los siguientes **Objetivos...**:
 
-* Objetivo #1
-* Objetivo #2
-* Objetivo #3
-* Objetivo #4
-* Objetivo #5
+* Objetivo 1
+* Objetivo 2
+* Objetivo 3
+* Objetivo 4
+* Objetivo 5
 
 ---
 ## 📸 Fotografía del Equipo
