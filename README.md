@@ -9,14 +9,9 @@
 Somos el **Equipo 2** del curso **Procesos de Innovación en Ingeniería**, conformado por estudiantes de la carrera de Ingeniería Biomédica.
 Nuestro objetivo es...
 
-Nos interesa trabajar en los siguientes **Objetivos...**:
+Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS)**:
 
-* Objetivo 1
-* Objetivo 2
-* Objetivo 3
-* Objetivo 4
-* Objetivo 5
-
+ODS 11: Ciudades y Comunidades Sostenibles
 ---
 ## 📸 Fotografía del Equipo
 
