@@ -28,9 +28,9 @@ Nos interesa trabajar en los siguientes **Objetivos...**:
 | Foto | Nombre | Rol | Intereses|
 | :---: | :--- | :--- | :--- |
 | Foto Angelo | Angelo | Falta Distribuir | Falta Definir |
-| Foto Mariana | Mariana | Falta Distribuir | Falta Definir |
+| Foto Mariana | Mariana | Líder del equipo | Falta Definir |
 | Foto Alonso | Alonso | Falta Distribuir | Falta Definir |
-| Foto Sofia  | Sofia | Falta Distribuir | Falta Definir |
+| Foto Sofia  | Sofia | Encargada de documentación	 | Falta Definir |
 ---
 ## 📌 Resumen Final
 
