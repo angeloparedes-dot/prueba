@@ -7,7 +7,7 @@
 ## 🌎Descripción del Equipo
 
 Somos el **Equipo 2** del curso **Procesos de Innovación en Ingeniería**, conformado por estudiantes de la carrera de Ingeniería Biomédica.
-Nuestro objetivo es identificar y analizar retos relacionados con la comprensión de la información sobre la sismicidad en el Perú, mediante la revisión de evidencia historica científica y su relación con los Objetivos de Desarrollo Sostenible (ODS).
+Nuestro objetivo es identificar y analizar retos relacionados con la comprensión de la información sobre la sismicidad en el Perú, mediante la revisión de evidencia historica científica y su relación con los Objetivos de Desarrollo Sostenible (ODS):
 
 - ODS 11: Ciudades y Comunidades Sostenibles
   
