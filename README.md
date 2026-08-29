@@ -34,10 +34,10 @@ Nuestro equipo tiene interés en explorar:
 
 | Foto | Nombre | Rol | Intereses|
 | :---: | :--- | :--- | :--- |
-| <img src="Recursos/Fotos Integrantes/Angelo.jpeg" width="120"> | Angelo | Falta Distribuir | Análisis de datos, tecnología, investigación y programación. |
-| <img src="Recursos/Fotos Integrantes/Mariana.jpeg" width="120"> | Mariana | Líder del equipo | Investigación científica, análisis de datos, innovación y aplicación de la tecnología a problemas sociales. |
-| <img src="Recursos/Fotos Integrantes/Alonso.jpeg" width="120"> | Alonso | Falta Distribuir | Tecnología, análisis de información, investigación y desarrollo de proyectos. |
-| <img src="Recursos/Fotos Integrantes/Sofia.jpeg" width="120">  | Sofía | Encargada de documentación | Ciencia, apredinzaje, tecnología junto a la introducción a la ingenieria biomedica y su aplicacion en la salud |
+| <img src="Recursos/Fotos Integrantes/Angelo.jpeg" width="120"> | Angelo Paredes | Falta Distribuir | Análisis de datos, tecnología, investigación y programación. |
+| <img src="Recursos/Fotos Integrantes/Mariana.jpeg" width="120"> | Mariana de la Cruz | Líder del equipo | Investigación científica, análisis de datos, innovación y aplicación de la tecnología a problemas sociales. |
+| <img src="Recursos/Fotos Integrantes/Alonso.jpeg" width="120"> | Alonso Montenegro | Falta Distribuir | Tecnología, análisis de información, investigación y desarrollo de proyectos. |
+| <img src="Recursos/Fotos Integrantes/Sofia.jpeg" width="120">  | Sofía Lázares | Encargada de documentación | Ciencia, apredinzaje, tecnología junto a la introducción a la ingenieria biomedica y su aplicacion en la salud |
 ---
 ## 📌 Resumen Final
 
