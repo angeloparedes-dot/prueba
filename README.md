@@ -25,7 +25,7 @@ Nuestro equipo tiene interés en explorar:
 ---
 ## 📸 Fotografía del Equipo
 
-<img src="Recursos/Fotos Integrantes/Imagen Grupal Provisional.jpeg" width="300">
+<img src="Recursos/Fotos Integrantes/Imagen Grupal Provisional.jpeg" width="1000">
 
 ---
 ## 👥 Integrantes del Equipo
