@@ -1,2 +1,0 @@
-TEMA: Visualización y análisis histórico de la sismicidad en el Perú
-PROBLEMÁTICA: La población tiene dificultades para interpretar los patrones históricos de la sismicidad en el Perú, particularmente la distribución, profundidad y períodos de baja actividad sísmica en la zona de subducción
