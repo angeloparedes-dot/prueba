@@ -37,7 +37,7 @@ Nuestro equipo tiene interés en explorar:
 | <img src="Recursos/Fotos Integrantes/Angelo.jpeg" width="120"> | Angelo | Falta Distribuir | Falta Definir |
 | <img src="Recursos/Fotos Integrantes/Mariana.jpeg" width="120"> | Mariana | Líder del equipo | Falta Definir |
 | <img src="Recursos/Fotos Integrantes/Alonso.jpeg" width="120"> | Alonso | Falta Distribuir | Tecnología, análisis de información, investigación y desarrollo de proyectos. |
-| <img src="Recursos/Fotos Integrantes/Sofia.jpeg" width="120">  | Sofia | Encargada de documentación | Ciencia, apredinzaje, tecnología junto a la introducción a la ingenieria biomedica y su aplicacion en la salud |
+| <img src="Recursos/Fotos Integrantes/Sofia.jpeg" width="120">  | Sofía | Encargada de documentación | Ciencia, apredinzaje, tecnología junto a la introducción a la ingenieria biomedica y su aplicacion en la salud |
 ---
 ## 📌 Resumen Final
 
