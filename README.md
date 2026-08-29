@@ -22,10 +22,10 @@ ODS 11: Ciudades y Comunidades Sostenibles
 
 | Foto | Nombre | Rol | Intereses|
 | :---: | :--- | :--- | :--- |
-| Foto Angelo | Angelo | Falta Distribuir | Falta Definir |
-| Foto Mariana | Mariana | Líder del equipo | Falta Definir |
-| Foto Alonso | Alonso | Falta Distribuir | Falta Definir |
-| Foto Sofia  | Sofia | Encargada de documentación | Ciencia, apredinzaje, tecnología junto a la introducción a la ingenieria biomedica y su aplicacion en la salud |
+| <img src="Recursos/Fotos Integrantes/Angelo.jpeg" width="120"> | Angelo | Falta Distribuir | Falta Definir |
+| <img src="Recursos/Fotos Integrantes/Mariana.jpeg" width="120"> | Mariana | Líder del equipo | Falta Definir |
+| <img src="Recursos/Fotos Integrantes/Alonso.jpeg" width="120"> | Alonso | Falta Distribuir | Falta Definir |
+| <img src="Recursos/Fotos Integrantes/Sofia.jpeg" width="120">  | Sofia | Encargada de documentación | Ciencia, apredinzaje, tecnología junto a la introducción a la ingenieria biomedica y su aplicacion en la salud |
 ---
 ## 📌 Resumen Final
 
