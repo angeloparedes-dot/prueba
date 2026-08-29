@@ -10,7 +10,9 @@ Somos el **Equipo 2** del curso **Procesos de Innovación en Ingeniería**, conf
 Nuestro objetivo es...
 
 Identificar y analizar retos relacionados con la comprensión de la información sobre la sismicidad en el Perú, mediante la revisión de evidencia científica y su relación con los Objetivos de Desarrollo Sostenible (ODS).
+
 - ODS 11: Ciudades y Comunidades Sostenibles
+  
 Buscamos comprender las principales dificultades relacionadas con la interpretación de la distribución, profundidad, magnitud y comportamiento histórico de los eventos sísmicos, sin plantear aún una solución al problema identificado.
 
 
