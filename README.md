@@ -30,7 +30,7 @@ Nos interesa trabajar en los siguientes **Objetivos...**:
 | Foto Angelo | Angelo | Falta Distribuir | Falta Definir |
 | Foto Mariana | Mariana | Líder del equipo | Falta Definir |
 | Foto Alonso | Alonso | Falta Distribuir | Falta Definir |
-| Foto Sofia  | Sofia | Encargada de documentación | Ciencia, tecnología medica junto a la introducción a la ingenpieria biomedica y su aplicacion en la salud |
+| Foto Sofia  | Sofia | Encargada de documentación | Ciencia, apredinzaje, tecnología junto a la introducción a la ingenpieria biomedica y su aplicacion en la salud |
 ---
 ## 📌 Resumen Final
 
