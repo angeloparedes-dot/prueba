@@ -15,7 +15,15 @@ Identificar y analizar retos relacionados con la comprensión de la información
   
 Buscamos comprender las principales dificultades relacionadas con la interpretación de la distribución, profundidad, magnitud y comportamiento histórico de los eventos sísmicos, sin plantear aún una solución al problema identificado.
 
+Nuestro equipo tiene interés en explorar:
 
+- Sismicidad histórica del Perú.
+- Distribución espacial de los eventos sísmicos.
+- Profundidad y magnitud de los sismos.
+- Comportamiento temporal de la actividad sísmica.
+- Interpretación y comunicación de información relacionada con riesgos sísmicos.
+- Relación entre la investigación y los Objetivos de Desarrollo Sostenible.
+  
 ---
 ## 📸 Fotografía del Equipo
 
