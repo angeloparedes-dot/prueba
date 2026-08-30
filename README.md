@@ -35,8 +35,8 @@ Nuestro equipo tiene interés en explorar:
 | <img src="Recursos/Fotos Integrantes/Angelo.jpeg" width="120"> | Angelo Paredes | Responsable de investigación | Análisis de datos, tecnología, investigación y programación. |
 | <img src="Recursos/Fotos Integrantes/Mariana.jpeg" width="120"> | Kyara De la Cruz | Líder del equipo | Investigación científica, análisis de datos, innovación y aplicación de la tecnología a problemas sociales. |
 | <img src="Recursos/Fotos Integrantes/Alonso.jpeg" width="120"> | Alonso Montenegro | Responsable de investigación | Tecnología, análisis de información, investigación y desarrollo de proyectos. |
-| <img src="Recursos/Fotos Integrantes/Sofia.jpeg" width="120">  | Sofía Lázares | Encargada de documentación | Ciencia, apredinzaje, tecnología junto a la introducción a la ingenieria biomedica y su aplicacion en la salud |
-| <img src="Recursos/Fotos Integrantes/Ricardo.jpeg" width="120"> | Edu Aguilar | Encargado de documentación | Sin definir. |
+| <img src="Recursos/Fotos Integrantes/Sofia.jpeg" width="120">  | Sofía Lázares | Encargada de documentación | Ciencia, aprendizaje, tecnología junto a la introducción a la ingeniería biomedica y su aplicacion en la salud |
+| <img src="Recursos/Fotos Integrantes/Ricardo.jpeg" width="120"> | Edu Aguilar | Encargado de documentación | Recopilación de datos, estructura de contenido, divulgación científica y materialización de conceptos. |
 ---
 ## 📌 Resumen Final
 
